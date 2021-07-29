@@ -45,7 +45,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ssunilkkumar/github-readme-stats"><img alt="Sunil Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssunilkkumar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/>
+    <a href="https://github.com/ssunilkkumar/github-readme-stats"><img alt="Sunil Kumar's Top Languages" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssunilkkumar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/ssunilkkumar/github-readme-stats"><img alt="Sunil Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ssunilkkumar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
   <br/>
