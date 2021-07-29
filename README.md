@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunil</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunil Kumar</h1>
 <hr/>
 <a href="#"><img width="100%" src="./Images/coder1.gif" height="350px"/></a>
 
 
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
