@@ -1,41 +1,38 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sunil Kumar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Kumar</h1>
 <hr/>
 <a href="#"><img width="100%" src="./Images/coder1.gif" height="350px"/></a>
 
 
-<h3 align="center">I'm a passionate Full Stack Developer.</h3>
+<h3 align="center">I'm a passionate Data Science Aspirant.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Python.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ssunilkkumar.github.io/portfolio/)**
 
- - 💬 Ask me about : **Data Structures and Algorithms, JavaScript, React and MongoDb**
+ - 💬 Ask me about : **Python**
 
-- 📫 How to reach me **ssunil.uk@gmail.com**
+- 📫 How to reach me **aditya10ds@gmail.com**
 
-- ⚡ Fun fact **I love to play chess and listen music.**
+- ⚡ Fun fact **I love to Draw Art.**
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aditya-kumar-a8944a269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-a8944a269" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
 <br/>
 
 <p align="center">
@@ -50,24 +47,11 @@
     <a href="https://github.com/ssunilkkumar/github-readme-stats"><img alt="Sunil Kumar's Top Languages" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssunilkkumar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/ssunilkkumar/github-readme-stats"><img alt="Sunil Kumar's Github Stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=ssunilkkumar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
 
 
 <br/>
-<br/>
-<a href="https://github.com/ssunilkkumar/github-readme-activity-graph"><img alt="Sunil Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ssunilkkumar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/ssunilkkumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/ssunilkkumar/github-profile-views-counter">
